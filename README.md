@@ -1,63 +1,57 @@
-<table align="center" border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td bgcolor="#111111" align="left" style="padding: 14px 28px;">
-      <strong style="color:#f6f1e7; font-family:Georgia, serif; font-style:italic; letter-spacing:2px;">THE ENGINEER</strong>
-    </td>
-    <td bgcolor="#111111" align="right" style="padding: 14px 28px;">
-      <code style="color:#f6f1e7;">VOL.03 · 2026</code>
-    </td>
-  </tr>
-</table>
+# THE ENGINEER
 
-<table align="center" border="0" width="100%" cellspacing="0" cellpadding="20">
-  <tr>
-    <td width="55%" valign="top">
+`VOL.03 · 2026`
 
-# Building beyond<br><em>the interface.</em>
+# Building beyond *the interface.*
 
-**Anes Zeyour** · Full-Stack & AI Engineer<br>
-based in Algeria · building intelligent and immersive web experiences
+### Anes Zeyour
+**Full-Stack & AI Engineer**
 
-> "I build products where software, AI, and interaction meet."
+Algeria · Building intelligent and immersive web experiences.
 
-I work across the full product stack — from polished React interfaces and immersive WebGL experiences to backend systems, AI agents, APIs, databases, and automation workflows.
+> *"I build products where software, AI, and interaction meet."*
 
-Currently exploring **AI agents, LLM systems, generative AI, Three.js, WebGPU, and production automation.**
+I work across the full product stack — from polished React interfaces and
+immersive WebGL experiences to backend systems, AI agents, APIs, databases,
+and automation workflows.
 
-```
-</td>
-<td width="45%" valign="top">
-```
+Currently exploring **AI Agents, LLM systems, Generative AI, Three.js,
+WebGPU, and production automation.**
 
-###### — SELECTED WORK
+---
 
-01 · [MAXI SPORT](YOUR_PROJECT_URL)<br>
-02 · [AI Customer Support](YOUR_PROJECT_URL)<br>
-03 · [3D / WebGL Project](YOUR_PROJECT_URL)
+### — SELECTED WORK
 
-###### — CURRENT STACK
+**01 · [MAXI SPORT](YOUR_URL)**  
+Full-stack sports e-commerce platform with product customization,
+PostgreSQL, Prisma and AI-powered automation.
 
-`TypeScript` · `React` · `Next.js`<br>
-`Node.js` · `PostgreSQL` · `Prisma`<br>
-`Three.js` · `WebGL` · `GSAP`<br>
-`n8n` · `Docker` · `AI Agents`
+**02 · [AI Customer Support](YOUR_URL)**  
+LLM-powered customer support automation built with n8n, APIs and messaging integrations.
 
-###### — EXPLORING
+**03 · [Interactive WebGL Experience](YOUR_URL)**  
+Immersive Three.js experience combining 3D environments, animation and interaction.
 
-AI Agents · Generative AI<br>
-LLM Tool Use · WebGPU
+---
 
-```
-</td>
-```
+### — CURRENT STACK
 
-  </tr>
-</table>
+`TypeScript` · `React` · `Next.js` · `Node.js`  
+`PostgreSQL` · `Prisma` · `Three.js` · `WebGL`  
+`GSAP` · `n8n` · `Docker` · `AI Agents`
+
+---
+
+### — CURRENTLY EXPLORING
+
+AI Agents · Generative AI · LLM Tool Use · WebGPU
 
 ---
 
 <p align="center">
-  <code>YOUR-PORTFOLIO.com</code> ·
-  <code>LinkedIn</code> ·
-  <code>YOUR-EMAIL</code>
+  <a href="YOUR_LINKEDIN">LinkedIn</a>
+  ·
+  <a href="YOUR_PORTFOLIO">Portfolio</a>
+  ·
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
