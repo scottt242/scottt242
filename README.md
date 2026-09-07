@@ -1,57 +1,116 @@
-# THE ENGINEER
+<!--
+  GitHub profile README for scottt242
+  Style: editorial / minimal / recruiter-friendly
+  Replace YOUR_LINKEDIN_URL once you have the exact public LinkedIn URL.
+-->
 
-`VOL.03 · 2026`
+<div align="center">
 
-# Building beyond *the interface.*
+# ANES ZEYOUR
 
-### Anes Zeyour
-**Full-Stack & AI Engineer**
+### Full-Stack Engineer · AI Automation · Three.js / WebGL
 
-Algeria · Building intelligent and immersive web experiences.
+**I build products where polished interfaces, reliable backends, AI workflows, and immersive web experiences meet.**
 
-> *"I build products where software, AI, and interaction meet."*
+<sub>ALGERIA · FULL-STACK / AI SYSTEMS / IMMERSIVE WEB</sub>
 
-I work across the full product stack — from polished React interfaces and
-immersive WebGL experiences to backend systems, AI agents, APIs, databases,
-and automation workflows.
+<br><br>
 
-Currently exploring **AI Agents, LLM systems, Generative AI, Three.js,
-WebGPU, and production automation.**
+<a href="https://aneszeyour.tech/"><b>PORTFOLIO</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/scottt242"><b>GITHUB</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:na_zeyour@esi.dz"><b>EMAIL</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_URL"><b>LINKEDIN</b></a>
 
----
-
-### — SELECTED WORK
-
-**01 · [MAXI SPORT](YOUR_URL)**  
-Full-stack sports e-commerce platform with product customization,
-PostgreSQL, Prisma and AI-powered automation.
-
-**02 · [AI Customer Support](YOUR_URL)**  
-LLM-powered customer support automation built with n8n, APIs and messaging integrations.
-
-**03 · [Interactive WebGL Experience](YOUR_URL)**  
-Immersive Three.js experience combining 3D environments, animation and interaction.
+</div>
 
 ---
 
-### — CURRENT STACK
+## 01 / PROFILE
 
-`TypeScript` · `React` · `Next.js` · `Node.js`  
-`PostgreSQL` · `Prisma` · `Three.js` · `WebGL`  
-`GSAP` · `n8n` · `Docker` · `AI Agents`
+I work across the full product stack — from **React / Next.js interfaces** and **Three.js / WebGL experiences** to **APIs, databases, automation, and AI-powered workflows**.
 
----
+My focus is not just making something work. I care about the whole experience: **interaction, architecture, performance, integration, and the details users actually feel**.
 
-### — CURRENTLY EXPLORING
-
-AI Agents · Generative AI · LLM Tool Use · WebGPU
+Currently exploring **AI agents, LLM systems, Generative AI, WebGPU, and production-grade automation**.
 
 ---
 
-<p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a>
-  ·
-  <a href="YOUR_PORTFOLIO">Portfolio</a>
-  ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+## 02 / SELECTED WORK
+
+### [E-Shop](https://github.com/scottt242/E-Shop)
+**Modern e-commerce frontend · Next.js · TypeScript · GSAP · Redux Toolkit · TanStack Query · Wix APIs**
+
+A full web commerce project focused on polished product experiences, state management, data fetching, animation, and external commerce integrations.
+
+`Next.js` `TypeScript` `GSAP` `Redux Toolkit` `TanStack Query`
+
+---
+
+### [Three.js Playground](https://github.com/scottt242/Template_1_threejs)
+**Interactive 3D web experiments · Three.js · Vite · Tweakpane**
+
+A WebGL playground for experimenting with real-time 3D scenes, environment maps, interaction, and visual tuning directly in the browser.
+
+[Live demo →](https://scottt242.github.io/Template_1_threejs)
+
+`Three.js` `WebGL` `Vite` `Tweakpane`
+
+---
+
+### [Portfolio / Selected Projects](https://aneszeyour.tech/)
+**Full-stack · AI automation · immersive web**
+
+My portfolio brings together selected client-style and personal work across web development, 3D experiences, and intelligent automation.
+
+[Visit portfolio →](https://aneszeyour.tech/)
+
+---
+
+## 03 / TOOLBOX
+
+**Frontend**  
+`TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS` `Redux` `GSAP`
+
+**Backend & data**  
+`Node.js` `Express` `PostgreSQL` `Redis` `Firebase`
+
+**3D & creative development**  
+`Three.js` `WebGL` `Blender` `Figma`
+
+**AI, automation & data**  
+`Python` `LangChain` `n8n` `Pandas` `NumPy` `Jupyter`
+
+**Engineering**  
+`Docker` `Git` `Linux` `Postman`
+
+---
+
+## 04 / WHAT I LIKE BUILDING
+
+- **Full-stack products** with a strong interface and a real backend behind them.
+- **AI and automation systems** that connect models, tools, APIs, and business workflows.
+- **Immersive web experiences** using 3D, motion, and interaction without sacrificing usability.
+- **Production-minded integrations** where performance, reliability, and maintainability matter.
+
+---
+
+## 05 / CURRENTLY EXPLORING
+
+`AI Agents` · `LLM Tool Use` · `Generative AI` · `WebGPU` · `Production Automation`
+
+---
+
+<div align="center">
+
+### BUILDING BEYOND *THE INTERFACE.*
+
+<a href="https://aneszeyour.tech/">aneszeyour.tech</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:na_zeyour@esi.dz">na_zeyour@esi.dz</a>
+
+<sub>scottt242 · 2026</sub>
+
+</div>
