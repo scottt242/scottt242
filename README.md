@@ -1,44 +1,63 @@
-# Hey, I'm Anes 👋
+<table align="center" border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#111111" align="left" style="padding: 14px 28px;">
+      <strong style="color:#f6f1e7; font-family:Georgia, serif; font-style:italic; letter-spacing:2px;">THE ENGINEER</strong>
+    </td>
+    <td bgcolor="#111111" align="right" style="padding: 14px 28px;">
+      <code style="color:#f6f1e7;">VOL.03 · 2026</code>
+    </td>
+  </tr>
+</table>
 
-### Full-Stack Developer | AI Automation | Three.js & WebGL
+<table align="center" border="0" width="100%" cellspacing="0" cellpadding="20">
+  <tr>
+    <td width="55%" valign="top">
 
-I build interactive web applications combining modern full-stack development, AI automation, and immersive 3D experiences.
+# Building beyond<br><em>the interface.</em>
 
-My main stack includes **React, Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Three.js, GSAP, Docker, and n8n**.
+**Anes Zeyour** · Full-Stack & AI Engineer<br>
+based in Algeria · building intelligent and immersive web experiences
+
+> "I build products where software, AI, and interaction meet."
+
+I work across the full product stack — from polished React interfaces and immersive WebGL experiences to backend systems, AI agents, APIs, databases, and automation workflows.
+
+Currently exploring **AI agents, LLM systems, generative AI, Three.js, WebGPU, and production automation.**
+
+```
+</td>
+<td width="45%" valign="top">
+```
+
+###### — SELECTED WORK
+
+01 · [MAXI SPORT](YOUR_PROJECT_URL)<br>
+02 · [AI Customer Support](YOUR_PROJECT_URL)<br>
+03 · [3D / WebGL Project](YOUR_PROJECT_URL)
+
+###### — CURRENT STACK
+
+`TypeScript` · `React` · `Next.js`<br>
+`Node.js` · `PostgreSQL` · `Prisma`<br>
+`Three.js` · `WebGL` · `GSAP`<br>
+`n8n` · `Docker` · `AI Agents`
+
+###### — EXPLORING
+
+AI Agents · Generative AI<br>
+LLM Tool Use · WebGPU
+
+```
+</td>
+```
+
+  </tr>
+</table>
 
 ---
 
-## 🚀 What I’m Focused On
-
-- 🤖 AI agents & workflow automation
-- 🌐 Full-stack web applications
-- 🎮 Three.js / WebGL experiences
-- ⚡ High-performance APIs and integrations
-- 🛒 Modern e-commerce experiences
-
-## 🌟 Featured Projects
-
-### **MAXI SPORT**
-Full-stack sports e-commerce platform with product customization, admin product management, PostgreSQL, Prisma, and AI integrations.
-
-### **AI Customer Support Agent**
-Automated customer support workflow built with n8n, LLM agents, APIs, and messaging integrations.
-
-### **AI Marketing Multi-Agent System**
-Multi-agent system integrated into an e-commerce platform for marketing automation and campaign workflows.
-
-### **Interactive 3D Web Experiences**
-WebGL and Three.js experiments using animations, 3D models, GSAP, and interactive environments.
-
-## 🛠️ Tech
-
-`React` `Next.js` `TypeScript` `Node.js` `PostgreSQL` `Prisma`  
-`Three.js` `WebGL` `GSAP` `n8n` `Docker` `Tailwind CSS`
-
-## 🔍 Currently Exploring
-
-AI agents • LLM tool use • Generative AI • WebGPU • Advanced Three.js
-
-## 🤝 Let’s Connect
-
-LinkedIn • Portfolio • Email
+<p align="center">
+  <code>YOUR-PORTFOLIO.com</code> ·
+  <code>LinkedIn</code> ·
+  <code>YOUR-EMAIL</code>
+</p>
