@@ -45,6 +45,8 @@ Currently exploring **AI agents, LLM systems, Generative AI, WebGPU, and product
 
 A full web commerce project focused on polished product experiences, state management, data fetching, animation, and external commerce integrations.
 
+[Live demo →](http://elevate-brand-platform.vercel.app/)
+
 `Next.js` `TypeScript` `GSAP` `Redux Toolkit` `TanStack Query`
 
 ---
@@ -54,7 +56,7 @@ A full web commerce project focused on polished product experiences, state manag
 
 A WebGL playground for experimenting with real-time 3D scenes, environment maps, interaction, and visual tuning directly in the browser.
 
-[Live demo →](https://scottt242.github.io/Template_1_threejs)
+[Live demo →](https://3d-painting.vercel.app/)
 
 `Three.js` `WebGL` `Vite` `Tweakpane`
 
